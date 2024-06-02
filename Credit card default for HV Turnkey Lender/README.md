@@ -27,3 +27,4 @@ The dataset comprises demographic information, repayment status, bill statements
 Through meticulous analysis and advanced statistical techniques, the project aims to provide actionable insights for the credit card company. These insights will empower informed decision-making to minimize losses, mitigate risks, and enhance customer satisfaction. Ultimately, the project's outcomes will optimize operational efficiency, refine marketing strategies, and tailor services to specific customer segments, fostering sustainable business growth.
 
 For additional details, please refer to the comprehensive project documentation and accompanying code files.
+- [Credit Card Defaults Analysis with Turnkey Lender](https://github.com/Ruthwik14/Python/blob/main/Credit%20card%20default%20for%20HV%20Turnkey%20Lender/Credit%20card%20default%20for%20HV%20Turnkey%20Lender.ipynb)
